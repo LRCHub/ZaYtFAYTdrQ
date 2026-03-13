@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "OK啦",
+  "base_artist": "五月天",
+  "createdAt": "2026-03-13T18:02:53.176134Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "OK啦!",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/01_OK啦!_五月天.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "OK啦",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/02_OK啦_五月天.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "OK啦!",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/03_OK啦!_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "OK啦 - Live",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/04_OK啦_-_Live_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "OK啦",
+      "artist": "五月天",
+      "has_synced": false,
+      "path": "select/05_OK啦_五月天.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "OK啦",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/06_OK啦_五月天.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OK啦",
+      "artist": "五月天",
+      "has_synced": false,
+      "path": "select/pl_01_OK啦_五月天.txt"
+    }
+  ]
+}
